@@ -34,4 +34,5 @@ Join us on Discord: https://discord.gg/JQEdR6
 The company logos and company names we used in this project and displayed on the website are for informative use only,
 they are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any
 affiliation with or endorsement by them.  
-This project and contributors are personal activities and they are not no affiliated with interests of any companies.
+This project and contributions made to it by communities are personal activities and they are not affiliated with
+interests of any companies.
