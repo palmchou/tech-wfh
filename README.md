@@ -1,3 +1,8 @@
+# Deprecated, check out [stayinghome.club](http://stayinghome.club)
+There is another community project serves the same purpose and they've already gathered a good amount of data and people are contributing. Let's focus our energy there to keep people most informed.  
+* Site: [stayinghome.club](http://stayinghome.club)
+* Repo: [github.com/phildini/stayinghomeclub](https://github.com/phildini/stayinghomeclub)
+
 Tech WFH
 ---
 A community contributed list of work from home(WFH) policies of tech companies in north America.  
